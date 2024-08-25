@@ -1,4 +1,4 @@
-# Frontend: https://bajaj-frontend-kohl.vercel.app/
+# Frontend: https://ayush-bajaj-finserv-challenge-ui.vercel.app/
 
 # Backend: https://ayush-bajaj-finserv.vercel.app/docs
 
